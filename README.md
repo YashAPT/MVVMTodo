@@ -28,22 +28,17 @@ It is a simpple TODO list app using MVVM achitecture pattern
 
 # SCREENSHOTS
 
-![](Images/img1.jpg)
+![](Images/img3.jpg)
 
 ![](Images/img2.jpg)
 
-![](Images/img3.jpg)
+![](Images/img1.jpg)
 
 ![](Images/img4.jpg)
-
-![](Images/img5.jpg)
-
-![](Images/img6.jpg)
 
 # DEPENDENCIES
 
 `
-// App dependencies
         appCompatVersion = "1.2.0"
         constraintLayoutVersion = "2.0.4"
         coroutinesVersion = "1.3.9"
